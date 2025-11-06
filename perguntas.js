@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'tecnologia',
-    'Oque significa tecnologia?',
-    'Tecnologia é o conjunto de técnicas, processos, métodos, ferramentas e conhecimentos aplicados para solucionar problemas e atingir objetivos'
+    'Tecnologia',
+    'O que é tecnologia ?',
+    'conjunto de técnicas, métodos, ferramentas e processos usados para resolver problemas e atingir objetivos, aplicando o conhecimento científico e prático para criar soluções que melhoram a vida das pessoas e da sociedade'
 )
 
 criaCartao(
@@ -17,17 +17,17 @@ criaCartao(
 )
 
 criaCartao(
-    'Tecnologia',
-    'O singnifica automação?',
-    ' È o uso de tecnologia para executar tarefas com o mínimo de intervenção humana'
+    'Tecnilogia',
+    'o que é automação industrial?',
+    ' o uso de tecnologias como softwares, hardwares, robôs e sistemas de controle para otimizar ou substituir processos manuais em ambientes de produção'
+)
+criaCartao(
+    'Teconologia',
+    'o que é IA?',
+    'é um campo da computação que permite que máquinas simulem habilidades humanas como aprendizado, raciocínio, resolução de problemas e tomada de decisões'
 )
 criaCartao(
     'Tecnologia',
-    'Qual é a função da automação?',
-    ' Para usar tecnologia para executar tarefas com o mínimo de intervenção humana, aumentando a eficiência, produtividade e qualidade, além de reduzir custos e erros')
-    
-    criaCartao(
-    'Programação',
-    'O que é IA e para que serve?',
-    'È a capacidade de sistemas computacionais de simular a inteligência humana para realizar tarefas como aprender, resolver problemas, tomar decisões, reconhecer padrões e entender a linguagem'
+    'O que significa IA?',
+    'inteligência artificial '
 )
