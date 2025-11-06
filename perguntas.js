@@ -17,7 +17,17 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tecnologia',
+    'O singnifica automação?',
+    ' È o uso de tecnologia para executar tarefas com o mínimo de intervenção humana'
+)
+criaCartao(
+    'Tecnologia',
+    'Qual é a função da automação?',
+    ' Para usar tecnologia para executar tarefas com o mínimo de intervenção humana, aumentando a eficiência, produtividade e qualidade, além de reduzir custos e erros')
+    
+    criaCartao(
+    'Programação',
+    'O que é IA e para que serve?',
+    'È a capacidade de sistemas computacionais de simular a inteligência humana para realizar tarefas como aprender, resolver problemas, tomar decisões, reconhecer padrões e entender a linguagem'
 )
